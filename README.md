@@ -8,9 +8,20 @@ To do list website using Html , CSS and JAVASCRIPT Language.
 
 <p> TO DO List is a tool used for organize task. It helps manage time , prioritize task </p>
 
-
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
+
+Download or clone the repository
+
+```
+Download or clone the repository
+
+```
+
+```
+
+```
+
