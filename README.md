@@ -1,4 +1,4 @@
-# To-Do-list
+# To-Do-List
 To do list website using Html , CSS and JAVASCRIPT Language.
 
 <h1>TO-DO List</h1>
@@ -6,7 +6,7 @@ To do list website using Html , CSS and JAVASCRIPT Language.
 <p>Simple TO-DO List using HTML, CSS, and JavaScript .</p>
 
 
-<p>TO DO List is a tool used for organize task.It helps manage time,prioritize task </p>
+<p> TO DO List is a tool used for organize task. It helps manage time , prioritize task </p>
 
 
 <ul>
