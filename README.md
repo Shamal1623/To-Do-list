@@ -17,7 +17,7 @@ To do list website using Html , CSS and JAVASCRIPT Language.
 Download or clone the repository
 
 ```
-https://github.com/Shamal1623/To-Do-list/tree/main
+https://github.com/Shamal1623/To-Do-list
 
 ```
 
